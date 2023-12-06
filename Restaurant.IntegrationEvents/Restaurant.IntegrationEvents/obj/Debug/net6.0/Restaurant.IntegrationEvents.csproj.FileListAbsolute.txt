@@ -1,0 +1,36 @@
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\bin\Debug\net6.0\Restaurant.IntegrationEvents.deps.json
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\bin\Debug\net6.0\Restaurant.IntegrationEvents.dll
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\bin\Debug\net6.0\Restaurant.IntegrationEvents.pdb
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.csproj.AssemblyReference.cache
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.AssemblyInfoInputs.cache
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.AssemblyInfo.cs
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.csproj.CoreCompileInputs.cache
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.dll
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\refint\Restaurant.IntegrationEvents.dll
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.pdb
+D:\Temp\1-2023\Modulo2\Example\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\ref\Restaurant.IntegrationEvents.dll
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\bin\Debug\net6.0\Restaurant.IntegrationEvents.deps.json
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\bin\Debug\net6.0\Restaurant.IntegrationEvents.dll
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\bin\Debug\net6.0\Restaurant.IntegrationEvents.pdb
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.csproj.AssemblyReference.cache
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.AssemblyInfoInputs.cache
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.AssemblyInfo.cs
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.csproj.CoreCompileInputs.cache
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.dll
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\refint\Restaurant.IntegrationEvents.dll
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.pdb
+D:\Temp\2-2023\Modulo 5\Sesion 3\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\ref\Restaurant.IntegrationEvents.dll
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\bin\Debug\net6.0\Restaurant.IntegrationEvents.deps.json
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\bin\Debug\net6.0\Restaurant.IntegrationEvents.dll
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\bin\Debug\net6.0\Restaurant.IntegrationEvents.pdb
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.csproj.AssemblyReference.cache
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.AssemblyInfoInputs.cache
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.AssemblyInfo.cs
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.csproj.CoreCompileInputs.cache
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.dll
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\refint\Restaurant.IntegrationEvents.dll
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\Restaurant.IntegrationEvents.pdb
+D:\Temp\2-2023\tiw\Restaurant.IntegrationEvents\Restaurant.IntegrationEvents\obj\Debug\net6.0\ref\Restaurant.IntegrationEvents.dll
